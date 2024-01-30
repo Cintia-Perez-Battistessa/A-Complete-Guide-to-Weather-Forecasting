@@ -5,11 +5,11 @@
 
 <a name="top"></a>
 ## Table of Contents
-* [1. About the Project](#item1)
-* [2. Project Page](#item2)
-* [3. Project Data](#item3)
-* [4. License](#item4)
-* [5. Give it a Star](#item5)
+* [1. About the Project](#1)
+* [2. Project Page](#2)
+* [3. Project Data](#3)
+* [4. License](#4)
+* [5. Give it a Star](#5)
 
 
 <a name="item1"></a>
@@ -19,7 +19,7 @@ This project describes the step-by-step method for forecasting the mean temperat
 
 The project begins by explaining essential insights into time series and prediction concepts. Following this, details of the preprocessing required to prepare the data for applying prediction algorithms are provided. Subsequently, various prediction methods, including ARIMA, SARIMA, SARIMAX, and PROPHET, are used, validated, and evaluated through relevant metrics.
 
-<a name="item2"></a>
+<a name="2"></a>
 ## 2. Project objectives
 
 The project objectives were:
@@ -28,12 +28,12 @@ The project objectives were:
 - Predict mean temperature using different methods such as ARIMA, SARIMA, SARIMAX, and Prophet
 - Evaluate and compare the prediction models.
 
-<a name="item3"></a>
+<a name="3"></a>
 ## 3. Project Data
 
 In this project, daily weather data from 1963 to 2022 for each capital of Spain is used to estimate and predict the average weather data for Spain. This dataset, obtained through the Open-Meteo API, was originally collected and processed in a prior GitHub project titled "Climate Change in Spain with Animation.
 
-<a name="item4"></a>
+<a name="4"></a>
 ## 4. Conclusion
 
 The metrics for the various predictive models are summarized in the table below.
@@ -46,7 +46,7 @@ The ARIMA model exhibits the lowest performance, as it does not consider the sea
 
 A notable observation is that none of the models accounts for the increasing trend in temperature over the years.
 
-<a name="item5"></a>
+<a name="5"></a>
 ## 5. License 
 This project is licensed under the Apache License. Please take a look at the LICENSE file for more information.
 
