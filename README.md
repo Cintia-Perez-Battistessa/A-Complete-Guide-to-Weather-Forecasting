@@ -12,7 +12,7 @@
 * [5. Give it a Star](#5)
 
 
-<a name="item1"></a>
+<a name="1"></a>
 ## 1. Introduction of the Project
 
 This project describes the step-by-step method for forecasting the mean temperature of Spain through the application of various predictive methods.
