@@ -3,10 +3,10 @@
 
 >_Figure  1: This graph compares actual and predicted average temperatures in Spain using the SARIMAX model. The shaded region around the predicted values represents the uncertainty range.
 
-<a name="top"></a>
+<a name="repository_3"></a>
 ## Table of Contents
 * [1. About the Project](#A)
-* [2. Project Page](#B)
+* [2. Project objectives](#B)
 * [3. Project Data](#C)
 * [4. Conclusion](#D)
 * [5. License](#E)
@@ -14,7 +14,7 @@
 
 
 <a name="A"></a>
-## 1. Introduction of the Project
+## 1. About the Project
 
 This project describes the step-by-step method for forecasting the mean temperature of Spain through the application of various predictive methods.
 
